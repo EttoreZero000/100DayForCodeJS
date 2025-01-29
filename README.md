@@ -11,8 +11,8 @@
 <details>
   <summary>Ver más detalles</summary>
 
-  - Primero instalar NodeJS en ArchLinux que es con el siguiente comando `sudo pacman -S nodeJS` luego empezar a programar.
-  - Abir mi neo vim y empeze a conocer los conceptos basicos y luego probe con los conocimientos de otros programas, el programa se ejecuta de esta manera `node "nombre_de_archivo.js"`
+  - Primero instalar NodeJS en ArchLinux que es con el siguiente comando `sudo pacman -S nodejs` luego empezar a programar.
+  - Abrir mi Neo Vim y empeze a conocer los conceptos basicos y luego probe con los conocimientos de otros lenguaje, el programa se ejecuta de esta manera `node "nombre_de_archivo.js"` siempre y cuando estes en el directorio
 
 </details>
 

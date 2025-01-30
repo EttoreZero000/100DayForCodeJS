@@ -4,7 +4,7 @@
 
 ## Registro Diario
 
-### Día 1: Comenzando el viaje
+### Día 1: Comenzando el viaje 📌 
 - **Objetivo**: Instalar NodeJS y conceptos basicos de JS
 - **Logros**: Crear mi repositorio GitHub, y crear un programa sencillo
 
@@ -15,6 +15,19 @@
   - Abrir mi Neo Vim y empeze a conocer los conceptos basicos y luego probe con los conocimientos de otros lenguaje, el programa se ejecuta de esta manera `node "nombre_de_archivo.js"` siempre y cuando estes en el directorio
 
 </details>
+
+### Día 2: Funciones 📌 
+- **Objetivo**: Aprender funciones
+- **Logros**: Crear varias funciones para aprender su comportamiento en JS
+
+<details>
+  <summary>Ver más detalles</summary>
+
+  - El uso de las funciones en JS es bastante sencillo, si usas extenciones o plugins para el autocompletado se realiza facil, pero hay formas mas sencillas para realizar funciones.
+
+</details>
+
+
 
 ## Recursos
 - [Markdown Guide](https://www.markdownguide.org/)

@@ -27,6 +27,16 @@
 
 </details>
 
+### Día 3: Array 📌 
+- **Objetivo**: Aprender lista basica
+- **Logros**: Como ingresar y modificar una lista en JS
+
+<details>
+  <summary>Ver más detalles</summary>
+
+  - El uso de las funciones en JS es bastante sencillo, si usas extenciones o plugins para el autocompletado se realiza facil, pero hay formas mas sencillas para realizar funciones.
+
+</details>
 
 
 ## Recursos
